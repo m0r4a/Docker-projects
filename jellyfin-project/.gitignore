@@ -1,0 +1,8 @@
+cache/*
+!cache/.nothing
+
+config/*
+!config/.nothing
+
+media/*
+!media/.nothing
